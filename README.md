@@ -12,3 +12,6 @@ Quantum circuits were constructed with Qiskit and simulations were performed on 
 The simulation results show changes in the probability distribution over time indicate time evolution occurs. This shows the ability of the quantum circuit to simulate the system. 
 Different potentials and sigma values show no significant changes in the probability distribution. 
 However, quantum circuit constructed with QPE algorithm cannot obtain proper energy estimation due to nonconvergance value in higher iterations.
+
+
+$F = m \dot a$
