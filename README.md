@@ -14,9 +14,9 @@ Different potentials and sigma values show no significant changes in the probabi
 However, quantum circuit constructed with QPE algorithm cannot obtain proper energy estimation due to nonconvergance value in higher iterations.
 
 ##  Time-Evolution Operator
-<p align="center"
+
 ![equation](https://latex.codecogs.com/svg.image?|\psi&space;(t)\rangle&space;=&space;(QFT^{\dagger}&space;~e^{-i&space;p^2&space;\Delta&space;t}&space;~QFT)&space;e^{-i&space;V&space;\Delta&space;t}&space;(QFT^{\dagger}&space;~e^{-i&space;p^2&space;\Delta&space;t}&space;~QFT)&space;e^{-i&space;V&space;\Delta&space;t}&space;~|\Psi&space;(0)\rangle)
-</p>
+
 
 <!-- <img src="https://render.githubusercontent.com/render/math?math=|\psi (t)\rangle = (QFT^{\dagger} ~e^{-i p^2 \Delta t} ~QFT) e^{-i V \Delta t} (QFT^{\dagger} ~e^{-i p^2 \Delta t} ~QFT) e^{-i V \Delta t} ~|\Psi (0)\rangle"> -->
 
