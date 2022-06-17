@@ -15,6 +15,6 @@ However, quantum circuit constructed with QPE algorithm cannot obtain proper ene
 
 ##  Time-Evolution Operator
 
-<img src="https://render.githubusercontent.com/render/math?math={abc}">
+<img src="https://render.githubusercontent.com/render/math?math=abc">
 
 <img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1">
