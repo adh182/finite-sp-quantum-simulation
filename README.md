@@ -15,6 +15,6 @@ However, quantum circuit constructed with QPE algorithm cannot obtain proper ene
 
 ##  Time-Evolution Operator
 
-<img src="https://render.githubusercontent.com/render/math?math=\ket{\psi (t)} = &(QFT^{\dagger} ~e^{-i p^2 \Delta t} ~QFT) e^{-i V \Delta t} (QFT^{\dagger} ~e^{-i p^2 \Delta t} ~QFT) e^{-i V \Delta t} ~\ket{\Psi (0)}">
+<img src="https://render.githubusercontent.com/render/math?math=|\psi (t)\rangle = (QFT^{\dagger} ~e^{-i p^2 \Delta t} ~QFT) e^{-i V \Delta t} (QFT^{\dagger} ~e^{-i p^2 \Delta t} ~QFT) e^{-i V \Delta t} ~|\Psi (0)\rangle">
 
-<img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1">
+<!-- <img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1"> -->
