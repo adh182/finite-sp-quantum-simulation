@@ -15,3 +15,8 @@ However, quantum circuit constructed with QPE algorithm cannot obtain proper ene
 
 
 $F = m \dot a$
+\begin{align}
+    p_j^2 &= (2\pi N)^2 \left( \frac{j}{N} + \frac{1}{2N} - \frac{1}{2} \right)^2 \notag \\
+    &\simeq (2\pi N)^2 \left( \frac{j}{N} - \frac{1}{2} \right)^2 \notag \\
+    &= (2\pi N)^2 \left( \frac{j^2}{N^2} - \frac{j}{N} + \frac{1}{4} \right).
+\end{align}
