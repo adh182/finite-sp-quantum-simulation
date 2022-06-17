@@ -13,10 +13,5 @@ The simulation results show changes in the probability distribution over time in
 Different potentials and sigma values show no significant changes in the probability distribution. 
 However, quantum circuit constructed with QPE algorithm cannot obtain proper energy estimation due to nonconvergance value in higher iterations.
 
-
-$F = m \dot a$
-$
-    p_j^2 &= (2\pi N)^2 \left( \frac{j}{N} + \frac{1}{2N} - \frac{1}{2} \right)^2 \notag \\
-    &\simeq (2\pi N)^2 \left( \frac{j}{N} - \frac{1}{2} \right)^2 \notag \\
-    &= (2\pi N)^2 \left( \frac{j^2}{N^2} - \frac{j}{N} + \frac{1}{4} \right).
-$
+##  Time-Evolution Operator
+$\ket{\psi (t)} = &(QFT^{\dagger} ~e^{-i p^2 \Delta t} ~QFT) e^{-i V \Delta t} \notag &(QFT^{\dagger} ~e^{-i p^2 \Delta t} ~QFT) e^{-i V \Delta t} ~\ket{\Psi (0)}$
