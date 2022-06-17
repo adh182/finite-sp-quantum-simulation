@@ -1,7 +1,7 @@
 <h1 align="center">
   <br>
     SIMULATION OF PARTICLE IN FINITE SQUARE POTENTIAL 
-    USING IBM QUANTUM
+    <br> USING IBM QUANTUM
   <br>
 </h1>
 
