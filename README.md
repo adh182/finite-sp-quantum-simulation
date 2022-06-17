@@ -15,6 +15,9 @@ However, quantum circuit constructed with QPE algorithm cannot obtain proper ene
 
 ##  Time-Evolution Operator
 
+Time-Evolution Operator was obtained by deriving Time-Dependent Schroedinger Equations (TDSE).
+The solution of TDSE is a wavefunction in analytical form, manipulated using quantum algorithm and third order Trotter Decompotition.
+The result was a wavefunction in quantum representation known as Time-Evolution Operator as follows:
 ![equation](https://latex.codecogs.com/svg.image?|\psi&space;(t)\rangle&space;=&space;(QFT^{\dagger}&space;~e^{-i&space;p^2&space;\Delta&space;t}&space;~QFT)&space;e^{-i&space;V&space;\Delta&space;t}&space;(QFT^{\dagger}&space;~e^{-i&space;p^2&space;\Delta&space;t}&space;~QFT)&space;e^{-i&space;V&space;\Delta&space;t}&space;~|\Psi&space;(0)\rangle)
 
 
