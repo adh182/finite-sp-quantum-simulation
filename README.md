@@ -33,6 +33,9 @@ The energy of the sistem was calculated from estimated phase by applying [Quantu
 The quantum circuit consists of two quantum registers: first quantum register for estimating phase, and second quantum register for simulating the Time-Evolution Operator circuit.
 
 ![alt text](https://github.com/adh182/finite-sp-quantum-simulation/blob/master/data/qpe-gate.png?raw=true)
+
+## Parameters and Initializations
+
 <!-- <img src="https://render.githubusercontent.com/render/math?math=|\psi (t)\rangle = (QFT^{\dagger} ~e^{-i p^2 \Delta t} ~QFT) e^{-i V \Delta t} (QFT^{\dagger} ~e^{-i p^2 \Delta t} ~QFT) e^{-i V \Delta t} ~|\Psi (0)\rangle"> -->
 
 <!-- <img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1"> -->
