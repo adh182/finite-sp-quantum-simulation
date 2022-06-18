@@ -40,6 +40,8 @@ Gaussian wavefunctions were used as inputs to initialize the Time-Evolution Oper
 The circuits simulate even wavefunction $|\psi_0\rangle = e^{-\sigma x^2}$ 
 and odd wavefunction $|\psi_0\rangle = x e^{-\sigma x^2}$, and then determined how it evolves over time.
 
+![alt text](https://github.com/adh182/finite-sp-quantum-simulation/blob/master/data/init-wvfunc.png?raw=true)
+
 <!-- <img src="https://render.githubusercontent.com/render/math?math=|\psi (t)\rangle = (QFT^{\dagger} ~e^{-i p^2 \Delta t} ~QFT) e^{-i V \Delta t} (QFT^{\dagger} ~e^{-i p^2 \Delta t} ~QFT) e^{-i V \Delta t} ~|\Psi (0)\rangle"> -->
 
 <!-- <img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1"> -->
