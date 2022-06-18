@@ -42,6 +42,9 @@ and odd wavefunction $|\psi_0\rangle = x e^{-\sigma x^2}$, and then determined h
 
 ![alt text](https://github.com/adh182/finite-sp-quantum-simulation/blob/master/data/init-wvfunc.png?raw=true)
 
+The sistem was calculated in the region $x=-0.5$ to $x=0.5$, and the potential barriers locate at $x=-0.25$ and $x=0.25$.
+
+## Results
 <!-- <img src="https://render.githubusercontent.com/render/math?math=|\psi (t)\rangle = (QFT^{\dagger} ~e^{-i p^2 \Delta t} ~QFT) e^{-i V \Delta t} (QFT^{\dagger} ~e^{-i p^2 \Delta t} ~QFT) e^{-i V \Delta t} ~|\Psi (0)\rangle"> -->
 
 <!-- <img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1"> -->
