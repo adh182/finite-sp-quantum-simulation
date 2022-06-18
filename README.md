@@ -16,7 +16,7 @@ However, quantum circuit constructed with QPE algorithm cannot obtain proper ene
 ##  Time-Evolution Operator
 
 Time-Evolution Operator was obtained by deriving [Time-Dependent Schroedinger Equations (TDSE)](https://en.wikipedia.org/wiki/Schr%C3%B6dinger_equation).
-The solution of TDSE is a wavefunction in analytical form, manipulated using quantum algorithm and third order [Trotter Decomposition](https://en.wikipedia.org/wiki/Lie_product_formula).
+The solution of TDSE is a wavefunction in analytical form, manipulated using quantum algorithm, [Quantum Fourier Transform (QFT)](https://en.wikipedia.org/wiki/Quantum_Fourier_transform) and third order [Trotter Decomposition](https://en.wikipedia.org/wiki/Lie_product_formula).
 The result was a wavefunction in quantum representation known as Time-Evolution Operator as follows:
 
 ![equation](https://latex.codecogs.com/svg.image?|\psi&space;(t)\rangle&space;=&space;(QFT^{\dagger}&space;~e^{-i&space;p^2&space;\Delta&space;t}&space;~QFT)&space;e^{-i&space;V&space;\Delta&space;t}&space;(QFT^{\dagger}&space;~e^{-i&space;p^2&space;\Delta&space;t}&space;~QFT)&space;e^{-i&space;V&space;\Delta&space;t}&space;~|\Psi&space;(0)\rangle)
@@ -29,8 +29,8 @@ Probability distributions of particle in finite square potential were obtained b
 
 ![alt text](https://github.com/adh182/finite-sp-quantum-simulation/blob/master/data/time-evolution-operator-circuit.png?raw=true)
 
-The energy of the sistem was calculated from estimated phase by applying [Quantum Phase Estimation (QPE)](https://en.wikipedia.org/wiki/Quantum_phase_estimation_algorithm) on Time-Evolution Operator.
-The quantum circuit consists of two quantum registers: first quantum register for estimating phase, and second quantum register for simulating the Time-Evolution Operator circuit.
+The energy of the sistem was calculated from estimated phase by applying [Quantum Phase Estimation (QPE)](https://en.wikipedia.org/wiki/Quantum_phase_estimation_algorithm) algorithm on Time-Evolution Operator.
+The quantum circuit consists of two quantum registers: first quantum register acts as working register for estimating phase, and second quantum register acts as simulation register for simulating the Time-Evolution Operator circuit.
 
 ![alt text](https://github.com/adh182/finite-sp-quantum-simulation/blob/master/data/qpe-gate.png?raw=true)
 
