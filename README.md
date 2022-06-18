@@ -30,7 +30,7 @@ Probability distributions of particle in finite square potential were obtained b
 ![alt text](https://github.com/adh182/finite-sp-quantum-simulation/blob/master/data/time-evolution-operator-circuit.png?raw=true)
 
 The energy of the sistem was calculated from estimated phase by applying [Quantum Phase Estimation (QPE)](https://en.wikipedia.org/wiki/Quantum_phase_estimation_algorithm) algorithm on Time-Evolution Operator.
-The quantum circuit consists of two quantum registers: first quantum register acts as working register for estimating phase, and second quantum register acts as simulation register for simulating the Time-Evolution Operator circuit.
+The quantum circuit consists of two quantum registers: first quantum register acts as work register for estimating phase, and second quantum register acts as simulation register for simulating the Time-Evolution Operator circuit.
 
 ![alt text](https://github.com/adh182/finite-sp-quantum-simulation/blob/master/data/qpe-gate.png?raw=true)
 
