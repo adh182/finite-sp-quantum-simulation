@@ -45,6 +45,10 @@ and odd wavefunction $|\psi_0\rangle = x e^{-\sigma x^2}$, and then determined h
 The sistem was calculated in the region $x=-0.5$ to $x=0.5$, and the potential barriers locate at $x=-0.25$ and $x=0.25$.
 
 ## Results
+### Energy Estimation
+### Probability distribution with 4, 5 and 6 qubits
+### Probability distribution with different sigma values
+### Probability distribution with different potential values
 <!-- <img src="https://render.githubusercontent.com/render/math?math=|\psi (t)\rangle = (QFT^{\dagger} ~e^{-i p^2 \Delta t} ~QFT) e^{-i V \Delta t} (QFT^{\dagger} ~e^{-i p^2 \Delta t} ~QFT) e^{-i V \Delta t} ~|\Psi (0)\rangle"> -->
 
 <!-- <img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1"> -->
