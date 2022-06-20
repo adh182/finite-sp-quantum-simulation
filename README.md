@@ -49,7 +49,8 @@ The sistem was calculated in the region $x=-0.5$ to $x=0.5$, and the potential b
 ### Probability distribution with 4, 5 and 6 qubits
 ### Probability distribution with different sigma values
 
-Sigma values $\sigma = 10$ and $\sigma = 25$ used in the wavefunctions produce similar probability distributions.
+Sigma values $\sigma = 10$ 
+and $\sigma = 25$ used in the wavefunctions produce similar probability distributions.
 
 ### Probability distribution with different potential values
 
