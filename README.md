@@ -48,4 +48,8 @@ The sistem was calculated in the region $x=-0.5$ to $x=0.5$, and the potential b
 ### Energy Estimation
 ### Probability distribution with 4, 5 and 6 qubits
 ### Probability distribution with different sigma values
+
+Sigma values $\sigma = 10$ and $sigma = 25$ used in the wavefunctions ..
 ### Probability distribution with different potential values
+
+System that simulated with different potential values; $V_1=10$, $V_1=50$, $V_1=100$, and $V_1=150$ show no significant changes in the probability distributions. This indicates that the chosen potential values have no important effect on the system.
