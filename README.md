@@ -47,6 +47,13 @@ The sistem was calculated in the region $x=-0.5$ to $x=0.5$, and the potential b
 ## Results
 ### Energy Estimation
 ### Probability distribution with 4, 5 and 6 qubits
+
+The number of probable states from a quantum system can be influenced by the number of qubits used in the simulation.
+The more qubit used, the more probable states can be observed.
+This contributes to the complexity of the time-evolution operator and longer computation time.
+For example, by using 4 qubits results in 4 states, while using 6 qubits results in $2^6$ states.
+By this reason, a system with 6 qubits produces more accurate result than a system with lesser qubits.
+
 ### Probability distribution with different sigma values
 
 Sigma values $\sigma = 10$ 
