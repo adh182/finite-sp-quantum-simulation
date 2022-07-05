@@ -50,7 +50,7 @@ The sistem was calculated in the region $x=-0.5$ to $x=0.5$, and the potential b
 ### Probability distribution with different sigma values
 
 Sigma values $\sigma = 10$ 
-and $\sigma = 25$ used in the wavefunctions produce similar probability distributions.
+and $\sigma = 25$ used in the wavefunctions produce similar probability distributions, indicate that the chosen sigma values have small influences to the systems.
 
 ### Probability distribution with different potential values
 
