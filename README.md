@@ -46,6 +46,14 @@ The sistem was calculated in the region $x=-0.5$ to $x=0.5$, and the potential b
 
 ## Results
 ### Energy Estimation
+
+Quantum circuit constructed with QPE algorithm cannot obtain proper energy estimation due to nonconvergance value in higher iterations.
+This is caused by some reasons.
+First, there might be error and imperfection of the constructed circuit, especially in the connection between time-evolution operator in simulation register and working register.
+Second, the QPE Algorithm implemented in this circuit could not work properly due to the precense of noise and decoherence on the quantum gates.
+Furthermore, rotational gates used in this circuit caused readout error.
+
+
 ### Probability distribution with 4, 5 and 6 qubits
 
 The number of probable states from a quantum system can be influenced by the number of qubits used in the simulation.
