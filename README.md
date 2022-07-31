@@ -42,7 +42,7 @@ and odd wavefunction $|\psi_0\rangle = x e^{-\sigma x^2}$, and then determined h
 
 ![alt text](https://github.com/adh182/finite-sp-quantum-simulation/blob/master/data/init-wvfunc.png?raw=true)
 
-The sistem was calculated in the region $x=-0.5$ to $x=0.5$, and the potential barriers locate at $x=-0.25$ and $x=0.25$.
+The sistem was calculated in the region $x=-0.5$ to $x=0.5$, and the potential barriers locate at $x<=-0.25$ and $x>=0.25$.
 
 ## Results
 ### Energy Estimation
