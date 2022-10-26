@@ -67,9 +67,11 @@ By this reason, a system with 6 qubits produces more accurate result than a syst
 
 Probability distribution of a particle with even initial wavefunction calculated using 4, 5, and 6 qubits with 5, 20, and 50 iterations are respectively shown below.
 
+<p align='center'>
 ![alt text](https://github.com/adh182/finite-sp-quantum-simulation/blob/master/data/even_5it_qubits.png?raw=true)
 ![alt text](https://github.com/adh182/finite-sp-quantum-simulation/blob/master/data/even_20it_qubits.png?raw=true)
 ![alt text](https://github.com/adh182/finite-sp-quantum-simulation/blob/master/data/even_50it_qubits.png?raw=true)
+</p>
 
 ### Probability distribution with different sigma values
 
