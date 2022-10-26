@@ -69,7 +69,7 @@ Probability distribution of a particle with even initial wavefunction calculated
 
 ![alt text](https://github.com/adh182/finite-sp-quantum-simulation/blob/master/data/even_5it_qubits.png?raw=true)
 ![alt text](https://github.com/adh182/finite-sp-quantum-simulation/blob/master/data/even_20it_qubits.png?raw=true)
-![alt text](hhttps://github.com/adh182/finite-sp-quantum-simulation/blob/master/data/even_50it_qubits.png?raw=true)
+![alt text](https://github.com/adh182/finite-sp-quantum-simulation/blob/master/data/even_50it_qubits.png?raw=true)
 
 ### Probability distribution with different sigma values
 
