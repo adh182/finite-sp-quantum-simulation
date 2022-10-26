@@ -65,6 +65,12 @@ This contributes to the complexity of the time-evolution operator and longer com
 For example, by using 4 qubits results in 4 states, while using 6 qubits results in $2^6$ states.
 By this reason, a system with 6 qubits produces more accurate result than a system with lesser qubits.
 
+Probability distribution of a particle with even initial wavefunction calculated using 4, 5, and 6 qubits with 5, 20, and 50 iterations are respectively shown below.
+
+![alt text](https://github.com/adh182/finite-sp-quantum-simulation/blob/master/data/even_5it_qubits.png?raw=true)
+![alt text](https://github.com/adh182/finite-sp-quantum-simulation/blob/master/data/even_20it_qubits.png?raw=true)
+![alt text](hhttps://github.com/adh182/finite-sp-quantum-simulation/blob/master/data/even_50it_qubits.png?raw=true)
+
 ### Probability distribution with different sigma values
 
 Sigma values $\sigma = 10$ 
