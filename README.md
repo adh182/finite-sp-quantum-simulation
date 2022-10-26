@@ -73,6 +73,8 @@ Probability distribution of a particle with even initial wavefunction calculated
   <img src='https://github.com/adh182/finite-sp-quantum-simulation/blob/master/data/even_50it_qubits.png?raw=true'/>
 </p>
 
+As shown in the figures above, the probability distribution evolved with the increase in iteration. 
+
 ### Probability distribution with different sigma values
 
 Sigma values $\sigma = 10$ 
