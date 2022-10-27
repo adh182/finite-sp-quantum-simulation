@@ -74,7 +74,7 @@ Probability distribution of a particle with even initial wavefunction calculated
 </p>
 
 As shown in the figures above, the probability distribution evolved with the increase in iteration.
-Probability distribution with 4 qubits (upper left), 5 qubits (upper right), and 6 qubits (bottom) show the same general pattern, smoother as more number of qubits used.
+Probability distribution with 4 qubits (upper left), 5 qubits (upper right), and 6 qubits (bottom) show the same general pattern, smoother as more number of qubits used in the simulation.
 
 ### Probability distribution with different sigma values
 
