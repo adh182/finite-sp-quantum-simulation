@@ -87,3 +87,4 @@ System that simulated with different potential values; $V_1=10$, $V_1=50$, $V_1=
 However, systems with potential values $V_1=500$ and $V_1=1000$ show extremely different probability distributions compared to the probability distributions simulated with lower potentials.
 This is due to the systems behave as infinite potential well that have too high potential values that can be considered as infinite.
 
+
