@@ -73,6 +73,8 @@ Probability distribution of a particle with even initial wavefunction calculated
   <img src='https://github.com/adh182/finite-sp-quantum-simulation/blob/master/data/even_50it_qubits.png?raw=true'/>
 </p>
 
+
+
 As shown in the figures above, the probability distribution evolved with the increase in iteration.
 Probability distribution with 4 qubits (upper left), 5 qubits (upper right), and 6 qubits (bottom) show the same general pattern, smoother as more number of qubits used in the simulation.
 
@@ -85,7 +87,9 @@ and $\sigma = 25$ used in the wavefunctions produce similar probability distribu
 
 System that simulated with different potential values; $V_1=10$, $V_1=50$, $V_1=100$, and $V_1=150$ show no significant changes in the probability distributions. This indicates that the chosen potential values have no important effect on the system.
 
-![alt text](https://github.com/adh182/finite-sp-quantum-simulation/blob/master/data/small_pot.png?raw=true)
+<p align='center'>
+  <img src='https://github.com/adh182/finite-sp-quantum-simulation/blob/master/data/small_pot.png?raw=true'/>
+</p>
 
 However, systems with potential values $V_1=500$ and $V_1=1000$ show extremely different probability distributions compared to the probability distributions simulated with lower potentials.
 This is due to the systems behave as infinite potential well that have too high potential values that can be considered as infinite.
