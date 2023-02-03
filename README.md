@@ -97,5 +97,3 @@ This is due to the systems behave as infinite potential well that have too high 
 <p align='center'>
   <img src='https://github.com/adh182/finite-sp-quantum-simulation/blob/master/data/high_pot.png?raw=true'/>
 </p>
-
-
